@@ -1,2 +1,2 @@
 # hello-git
-This is just for trial.
+This is first git repository.
